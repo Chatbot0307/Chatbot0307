@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🔗 안녕하세요, 다양한 가능성의 개발자 황주하입니다.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5B6CFF&height=180&section=header&text=Hwang%20Ju-ha&fontSize=48&fontColor=C7D2FF&animation=fadeIn&textY=52" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5B6CFF&height=180&section=header&text=Hwang%20Juha&fontSize=48&fontColor=C7D2FF&animation=fadeIn&textY=52" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1500&color=8AA6FF&center=true&vCenter=true&width=380&lines=Game+Systems+Developer;Unity+%26+Networking" />
-
-<h3 style="color:#C7D2FF;">🎮 Game Client & Server Developer</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=23&pause=1500&color=8AA6FF&center=true&vCenter=true&width=380&lines=Game+Systems+Developer;Unity+%26+Networking" />
 
 </div>
 
 ---
+
 
 ## 🧠 About Me
 
