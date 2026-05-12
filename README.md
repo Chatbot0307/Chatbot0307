@@ -31,11 +31,10 @@
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chatbot0307&show_icons=true&theme=tokyonight&hide_border=true&title_color=C7D2FF&text_color=8AA6FF" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatbot0307&layout=compact&theme=tokyonight&hide_border=true&title_color=C7D2FF" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatbot0307&theme=tokyonight" />
 </p>
 
 ---
